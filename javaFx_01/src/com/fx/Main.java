@@ -16,7 +16,7 @@ public class Main extends Application{
 		
 		AnchorPane ap = new AnchorPane();
 		
-		Button btn = new Button("Hello");
+		Button btn = new Button("zh3459345893593593uzhu");
 		
 		ap.getChildren().add(btn);
 		
